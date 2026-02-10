@@ -3,6 +3,7 @@ date = '2026-02-09T20:46:54+01:00'
 draft = true
 title = 'Tlön, Uqbar, Orbis Tertius'
 +++
+Este cuento es de Jorge Luis Borges. (Cambio en la página)
 
 [Cuento - Texto completo.]
 Jorge Luis Borges
