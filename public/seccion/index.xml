@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seccions on My New Hugo Site</title>
+    <link>http://localhost:1313/seccion/</link>
+    <description>Recent content in Seccions on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Mon, 09 Feb 2026 20:46:54 +0100</lastBuildDate><atom:link href="http://localhost:1313/seccion/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Archivo</title>
+      <link>http://localhost:1313/seccion/archivo/</link>
+      <pubDate>Mon, 09 Feb 2026 20:46:54 +0100</pubDate>
+      
+      <guid>http://localhost:1313/seccion/archivo/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
